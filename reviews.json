@@ -1,6 +1,6 @@
 [
   {
-    "product_id": 1,
+    "product_id": 9,
     "review": {
       "img": "https://randomuser.me/api/portraits/men/10.jpg",
       "name": "Rafiul Hasan",
@@ -8,7 +8,7 @@
     }
   },
   {
-    "product_id": 1,
+    "product_id": 9,
     "review": {
       "img": "https://randomuser.me/api/portraits/men/90.jpg",
       "name": "Nasif Rahman",
@@ -16,7 +16,7 @@
     }
   },
   {
-    "product_id": 2,
+    "product_id": 10,
     "review": {
       "img": "https://randomuser.me/api/portraits/women/21.jpg",
       "name": "Amina Sultana",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "product_id": 2,
+    "product_id": 10,
     "review": {
       "img": "https://randomuser.me/api/portraits/women/95.jpg",
       "name": "Sumaiya Akter",
@@ -32,7 +32,7 @@
     }
   },
   {
-    "product_id": 3,
+    "product_id": 11,
     "review": {
       "img": "https://randomuser.me/api/portraits/men/33.jpg",
       "name": "Tanvir Alam",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "product_id": 3,
+    "product_id": 11,
     "review": {
       "img": "https://randomuser.me/api/portraits/men/22.jpg",
       "name": "Mahfuz Khan",
