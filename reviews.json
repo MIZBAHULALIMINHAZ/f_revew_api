@@ -1,0 +1,130 @@
+[
+  {
+    "product_id": 1,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/10.jpg",
+      "name": "Rafiul Hasan",
+      "text": "The food was absolutely amazing. Full of flavor and so fresh!"
+    }
+  },
+  {
+    "product_id": 1,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/90.jpg",
+      "name": "Nasif Rahman",
+      "text": "Well-cooked, tasty, and arrived on time. Very happy!"
+    }
+  },
+  {
+    "product_id": 2,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/21.jpg",
+      "name": "Amina Sultana",
+      "text": "I loved it! Will definitely order again. Highly recommended!"
+    }
+  },
+  {
+    "product_id": 2,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/95.jpg",
+      "name": "Sumaiya Akter",
+      "text": "It was a real treat. I\u2019ll be ordering again soon!"
+    }
+  },
+  {
+    "product_id": 3,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/33.jpg",
+      "name": "Tanvir Alam",
+      "text": "Great taste, nice presentation, and fast delivery!"
+    }
+  },
+  {
+    "product_id": 3,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/22.jpg",
+      "name": "Mahfuz Khan",
+      "text": "Loved the spices and texture. A++!"
+    }
+  },
+  {
+    "product_id": 4,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/45.jpg",
+      "name": "Lamia Khatun",
+      "text": "Super fresh and flavorful. My kids also loved it!"
+    }
+  },
+  {
+    "product_id": 4,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/52.jpg",
+      "name": "Rumana Hossain",
+      "text": "Mouth-watering and affordable. Will buy again!"
+    }
+  },
+  {
+    "product_id": 5,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/55.jpg",
+      "name": "Jubair Ahmed",
+      "text": "One of the best meals I've had this month!"
+    }
+  },
+  {
+    "product_id": 5,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/44.jpg",
+      "name": "Ashfaq Rahman",
+      "text": "Portion size was great, and taste was on point!"
+    }
+  },
+  {
+    "product_id": 6,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/65.jpg",
+      "name": "Meherun Nesa",
+      "text": "A delightful experience! Crispy, warm, and delicious."
+    }
+  },
+  {
+    "product_id": 6,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/68.jpg",
+      "name": "Tanjina Jahan",
+      "text": "Great service and yummy food!"
+    }
+  },
+  {
+    "product_id": 7,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/70.jpg",
+      "name": "Shahriar Kabir",
+      "text": "Definitely a must-try! Loved every bite."
+    }
+  },
+  {
+    "product_id": 7,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/men/99.jpg",
+      "name": "Abir Chowdhury",
+      "text": "Top-quality ingredients and fast delivery."
+    }
+  },
+  {
+    "product_id": 8,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/80.jpg",
+      "name": "Tahmina Yasmin",
+      "text": "Highly recommended for foodies! Quality and taste are top-notch."
+    }
+  },
+  {
+    "product_id": 8,
+    "review": {
+      "img": "https://randomuser.me/api/portraits/women/77.jpg",
+      "name": "Nishat Nawar",
+      "text": "Fresh and flavorful \u2013 just what I needed!"
+    }
+  }
+]
